@@ -1,0 +1,74 @@
+[
+  {
+    "img": "./assets/images/weed_bud.png",
+    "name": "Bud",
+    "description": "Description of Item",
+    "price" : 200.00
+  },
+  {
+    "img": "./assets/images/joint.png",
+    "name": "Joint",
+    "description": "Description of Item",
+    "price" : 200.00
+  },
+  {
+    "img": "./assets/images/gummies.png",
+    "name": "Gummie",
+    "description": "Description of Item",
+    "price" : 300.00
+  },
+  {
+    "img": "./assets/images/water_bottle.png",
+    "name": "Water",
+    "description": "Description of Item",
+    "price" : 50.00
+  },
+  {
+    "img": "./assets/images/fertilizer.png",
+    "name": "Fertilizer",
+    "description": "Description of Item",
+    "price" : 100.00
+  },
+  {
+    "img": "./assets/images/weed_baggy_empty.png",
+    "name": "Baggie",
+    "description": "Description of Item",
+    "price" : 25.00
+  },
+  {
+    "img": "./assets/images/trimmers.png",
+    "name": "Trimming Shears",
+    "description": "Description of Item",
+    "price" : 200.00
+  },
+  {
+    "img": "./assets/images/highqualityscales.png",
+    "name": "Scale",
+    "description": "Description of Item",
+    "price" : 2000.00
+  },
+  {
+    "img": "./assets/images/grinder.png",
+    "name": "Grinder",
+    "description": "Description of Item",
+    "price" : 200.00
+  },
+  {
+    "img": "./assets/images/rolling_paper_red.png",
+    "name": "Rolling Papers",
+    "description": "Description of Item",
+    "price" : 50.00
+  },
+  {
+    "img": "./assets/images/trowel.png",
+    "name": "Trowel",
+    "description": "Description of Item",
+    "price" : 500.00
+  },
+  {
+    "img": "./assets/images/bong.png",
+    "name": "Bong",
+    "description": "Description of Item",
+    "price" : 1000.00
+  }
+]
